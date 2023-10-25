@@ -1,4 +1,4 @@
-[![MasterHead](https://lh3.googleusercontent.com/YwyFExqtRkeeGcpBofcDcS4HHdqGAIQbllW8KlcR-BkQ0uQbHLYm1XRRbWcpzasb7i_jIL30hyyKWmvJx8_XZBlpxqmRroTyow5HMHYTld3OPutOCSCms5frmjKllqepIXjSqnscDhjKki23O_s)
+
 <h1 align="center">Hi 👋, I'm Rajni Bhandari</h1>
 <h3 align="center">A passionate entry-level data analyst👨‍💻</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/lvLaG5hPCncAAAAd/data-analysis.gif">
